@@ -26,4 +26,6 @@ Bu proje, **Convolutional Neural Network (CNN)** mimarisi ve **Transfer Learning
 - Zorlayıcı sınıflar: **Glacier** ve **Mountain**  
 
 ## 🔗 Kaggle Notebook  
-
+## Kaggle Notebook
+Bu projenin Kaggle notebook bağlantısı:  
+https://www.kaggle.com/code/goncacomertgmailcom/cnnexus-akbank-deep-learning-project1
