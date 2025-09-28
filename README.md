@@ -10,7 +10,7 @@ Bu proje, **Convolutional Neural Network (CNN)** mimarisi ve **Transfer Learning
 - Test seti: ~14.000 görüntü  
 - Veri artırma teknikleri: rotation, flip, zoom, color jitter  
 
-## Kullanılan Yöntemler  
+## Yöntemler  
 - Veri önişleme ve görselleştirme  
 - Data augmentation (`ImageDataGenerator`)  
 - CNN modeli (Conv2D, MaxPooling, Dropout, Dense)  
