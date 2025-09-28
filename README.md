@@ -1,6 +1,7 @@
-#  CNN ile Görüntü Sınıflandırma – Akbank Derin Öğrenme Bootcamp Projesi
-
-##  Projenin Amacı  
+#  **Akbank Derin Öğrenme Bootcamp Projesi**
+  **CNN ile Görüntü Sınıflandırma**
+  
+##  Amaç  
 Bu proje, **Convolutional Neural Network (CNN)** mimarisi ve **Transfer Learning** yöntemleri kullanılarak çok sınıflı bir görüntü sınıflandırma problemini çözmeyi amaçlamaktadır. Çalışma, **Akbank Derin Öğrenme Bootcamp** kapsamında hazırlanmıştır.  
 
 ##  Veri Seti  
